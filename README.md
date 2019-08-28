@@ -8,4 +8,5 @@ Some of the prerequisites are
 3. PIL
 4. Matplotlib
 
-If you want to run it on local machine you can use 
+If you want to run it on local machine you can use <code>pip</code> to install all the libraries mentioned above
+
