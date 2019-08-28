@@ -10,3 +10,9 @@ Some of the prerequisites are
 
 If you want to run it on local machine you can use <code>pip</code> to install all the libraries mentioned above
 
+or 
+
+An easier way to run the project would be on Google Colab
+
+Run the <code>main_with_examples.ipynb</code> file for optimum performance. The other script might be buggy
+
